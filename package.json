@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/moncici007/proxy/issues"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "homepage": "https://github.com/moncici007/proxy#readme"
 }
